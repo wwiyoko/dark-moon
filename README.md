@@ -5,6 +5,8 @@ A Neovim color scheme derived from [blue-moon](https://github.com/kyazdani42/blu
 Dark Moon supports Treesitter, built-in LSP client, true-color terminals,
 and [other supported plugins](#supported-plugins).
 
+![Neovim with Dark Moon color scheme](https://github.com/user-attachments/assets/d036478a-5129-4820-87ea-32dd245c57d6)
+
 ## Requirements
 
 - Neovim version should be newer than 0.8.0.
